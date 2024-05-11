@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111172940739",
+    "project_id": "waterpoloinfo-mobile",
+    "storage_bucket": "waterpoloinfo-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111172940739:android:a984c1334541bafdabc376",
+        "android_client_info": {
+          "package_name": "com.example.waterpoloinfo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfsVrBhpCe-136Kfei0T-m85Su62l0X0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
